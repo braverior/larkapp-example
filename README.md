@@ -17,3 +17,7 @@
 
 注意：
 该项目仅支持部分飞书能力，如需要更强能力可以催更，也可以clone自行增加并实现IEventHandler接口
+
+## 运行
+
+`go run cmd/main.go`
