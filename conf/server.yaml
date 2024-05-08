@@ -1,0 +1,10 @@
+TestCardTemplateId: XXXX
+LarkAppConfig:
+  AppId: cli_XXXX
+  AppSecret: XXX
+  ReqTimeout: 3
+  EnableTokenCache: true
+  EncryptKey: XXX
+  VerificationToken: XXXX
+  CardEventPort: 8132
+  CardEventPath: /card/callback
